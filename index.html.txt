@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=devicewidth, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>INFO2180 Lab 1</title>
+<link rel = "stylesheet"
+    type = "text/css"
+    href = "styles.css"/> 
 </head>
 <body>
  <header>
@@ -15,6 +18,7 @@
  <h2>[Orlando Williams]</h2>
  <p>[I am a Information Technology student at UWI MONA]</p>
  </main>
+ <img srg="maf.jpg" alt="THEM"/>
  <footer>
  <p>Copyright &copy; 2020 <Orlando Williams>.</p> 
  </footer>
